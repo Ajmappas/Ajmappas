@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ajmappas
+- 👋 Hi, I’m @Cjmappas
 - 👀 I’m interested in Game dev
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on Games
