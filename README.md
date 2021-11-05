@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cjmappas
 - 👀 I’m interested in Game dev
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on Games
+- 🌱 I’m currently into Unity
+- 💞️ I’m making a survival game with Unity 
 - 📫 How to reach me Insta: @chiotelis.john
 
 <!---
