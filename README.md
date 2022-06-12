@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game dev
 - 🌱 I’m currently into Unity
 - 💞️ I’m making a survival game with Unity 
-- 📫 How to reach me 
+- 📫 How to reach me </br>
        Insta: @chiotelis.john
 
 <!---
