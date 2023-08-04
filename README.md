@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cjmappas
 - 👀 I’m interested in Game dev
-- 🌱 I’m currently into Unity
+- 🌱 I’m currently into C++ and OpenGL
 - 💞️ I’m making a survival game with Unity 
 - 📫 How to reach me </br>
        Insta: @chiotelis.john
